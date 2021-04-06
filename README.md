@@ -16,11 +16,12 @@
 | 백준 | 21.02.01 | 수학/구현 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | 하 | [이동](./Baekjoon/readme/X보다작은수.md) |
 | 백준 | 21.02.02 | 수학/사칙연산/구현 | [A+B-4](https://www.acmicpc.net/problem/10951) | 하 | [이동](./Baekjoon/readme/A+B-4.md) |
 | 백준 | 21.02.03 | 수학/구현/문자열 | [더하기 사이클](https://www.acmicpc.net/problem/1110) | 하 | [이동](./Baekjoon/readme/더하기사이클.md) |
-
 </div>
 </details>
 
-### ▼ 알고리즘 공부
+<details>
+<summary>알고리즘</summary>
+<div markdown="1">  
 
 | 카테고리 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | 리드미 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
@@ -52,6 +53,13 @@
 | 이것이 코딩테스트다 | 21.02.28 | 정렬 | 성적이 낮은 순서로 학생 출력하기 | 하 | [이동](./book/readme/성적이낮은순서로학생출력하기.md) |
 | 이것이 코딩테스트다 | 21.03.01 | 정렬 | 두 배열의 원소 교체 | 하 | [이동](./book/readme/두배열의원소교체.md) |
 | 프로그래머스 | 21.03.25 | 연습문제 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | Lv1 | [이동](./Programmers/readme/평균구하기.md) |
+</div>
+</details>
+
+### ▼ Swift
+| 카테고리 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | 리드미 |  
+| :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
+| 프로그래머스 | 21.04.06 | 연습문제 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | Lv1 | [이동](./Programmers/readme/수박수박수.md) |
 
 
 
