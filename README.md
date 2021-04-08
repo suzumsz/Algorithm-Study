@@ -60,6 +60,7 @@
 | 카테고리 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | 리드미 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | 프로그래머스 | 21.04.06 | 연습문제 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | Lv1 | [이동](Swift/Programmers/readme/수박수박수.md) |
+| 프로그래머스 | 21.04.08 | 정렬 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=swift) | Lv1 | [이동](Swift/Programmers/readme/K번째수.md) |
 
 
 
