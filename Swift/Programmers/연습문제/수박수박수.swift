@@ -1,4 +1,4 @@
-# 수박수박수박수박수박수?
+// 수박수박수박수박수박수?
 
 func solution(_ n:Int) -> String {
     var answer = ""
