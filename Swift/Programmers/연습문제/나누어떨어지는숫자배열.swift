@@ -1,4 +1,4 @@
-# 나누어 떨어지는 숫자 배열
+// 나누어 떨어지는 숫자 배열
 
 func solution(_ arr:[Int], _ divisor:Int) -> [Int] {
     var answer:[Int] = []
