@@ -63,5 +63,7 @@
 | 프로그래머스 | 21.04.08 | 정렬 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=swift) | Lv1 | [이동](Swift/Programmers/readme/K번째수.md) |
 | 프로그래머스 | 21.04.11 | 연습문제 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | Lv1 | [이동](Swift/Programmers/readme/나누어떨어지는숫자배열.md) |
 | 프로그래머스 | 21.04.14 | 연습문제 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=swift) | Lv1 | [이동](Swift/Programmers/readme/두정수사이의합.md) |
+| 프로그래머스 | 21.04.18 | 연습문제 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | Lv1 | [이동](Swift/Programmers/readme/핸드폰번호가리기.md) |
+| 프로그래머스 | 21.04.18 | 연습문제 | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | Lv1 | [이동](Swift/Programmers/readme/직사각형별찍기.md) |
 
  
