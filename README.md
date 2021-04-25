@@ -4,7 +4,7 @@
 > 잘 할 수 있당 !!! 홧팅 !!!    
     
 <details> 
-<summary>[백준] 단계별로 풀어보기</summary> 
+<summary>[백준] 단계별로 풀어보기</summary>  
 <div markdown="1">        
 
 | 카테고리 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | 리드미 |  
