@@ -67,3 +67,4 @@
 | 프로그래머스 | 21.04.18 | 연습문제 | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | Lv1 | [이동](Swift/Programmers/readme/직사각형별찍기.md) |
 | 프로그래머스 | 21.05.02 | 연습문제 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=swift) | Lv1 | [이동](Swift/Programmers/readme/x만큼간격이있는n개의숫자.md) |
 | 프로그래머스 | 21.05.02 | 연습문제 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=swift) | Lv1 | [이동](Swift/Programmers/readme/약수의합.md) | 
+| 프로그래머스 | 21.05.02 | 연습문제 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=swift) | Lv1 | [이동](Swift/Programmers/readme/평균구하기.md) | 
