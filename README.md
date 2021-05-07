@@ -3,7 +3,7 @@
 > 일주일 3문제 이상 풀기 ~     
 > 잘 할 수 있당 !!! 홧팅 !!!    
        
-<details>   
+<details>    
 <summary>[백준] 단계별로 풀어보기</summary>   
 <div markdown="1">        
 
