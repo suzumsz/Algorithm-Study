@@ -68,3 +68,6 @@
 | 프로그래머스 | 21.05.02 | 연습문제 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=swift) | Lv1 | [이동](Swift/Programmers/readme/x만큼간격이있는n개의숫자.md) |
 | 프로그래머스 | 21.05.02 | 연습문제 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=swift) | Lv1 | [이동](Swift/Programmers/readme/약수의합.md) | 
 | 프로그래머스 | 21.05.02 | 연습문제 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=swift) | Lv1 | [이동](Swift/Programmers/readme/평균구하기.md) | 
+| 프로그래머스 | 21.05.09 | 연습문제 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | Lv1 | [이동](Swift/Programmers/readme/가운데글자가져오기.md) | 
+| 프로그래머스 | 21.05.09 | 연습문제 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | Lv1 | [이동](Swift/Programmers/readme/문자열내p와y의개수.md) | 
+| 프로그래머스 | 21.05.09 | 연습문제 | [자리수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931?language=swift) | Lv1 | [이동](Swift/Programmers/readme/자리수더하기.md) | 
