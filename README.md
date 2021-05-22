@@ -75,3 +75,4 @@
 | 프로그래머스 | 21.05.16 | 연습문제 | []() | Lv1 | [이동](Swift/Programmers/readme/.md) | 
 | 프로그래머스 | 21.05.16 | 연습문제 | []() | Lv1 | [이동](Swift/Programmers/readme/.md) | 
 | 프로그래머스 | 21.05.22 | 월간 코드 챌린지 시즌1 | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644?language=swift) | Lv1 | [이동](Swift/Programmers/readme/두개뽑아서더하기.md) | 
+| 프로그래머스 | 21.05.22 | 월간 코드 챌린지 시즌1 | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935?language=swift) | Lv1 | [이동](Swift/Programmers/readme/3진법뒤집기.md) | 
