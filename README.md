@@ -71,7 +71,7 @@
 | 프로그래머스 | 21.05.09 | 연습문제 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | Lv1 | [이동](Swift/Programmers/readme/가운데글자가져오기.md) | 
 | 프로그래머스 | 21.05.09 | 연습문제 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | Lv1 | [이동](Swift/Programmers/readme/문자열내p와y의개수.md) | 
 | 프로그래머스 | 21.05.09 | 연습문제 | [자리수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931?language=swift) | Lv1 | [이동](Swift/Programmers/readme/자리수더하기.md) |
-| 프로그래머스 | 21.05.16 | 연습문제 | []() | Lv1 | [이동](Swift/Programmers/readme/.md) | 
+| 프로그래머스 | 21.05.16 | Summer/Winter Coding(~2018) | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=swift) | Lv1 | [이동](Swift/Programmers/readme/소수만들기.md) | 
 | 프로그래머스 | 21.05.16 | 연습문제 | []() | Lv1 | [이동](Swift/Programmers/readme/.md) | 
 | 프로그래머스 | 21.05.16 | 연습문제 | []() | Lv1 | [이동](Swift/Programmers/readme/.md) | 
 | 프로그래머스 | 21.05.22 | 월간 코드 챌린지 시즌1 | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644?language=swift) | Lv1 | [이동](Swift/Programmers/readme/두개뽑아서더하기.md) | 
