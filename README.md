@@ -77,3 +77,4 @@
 | 프로그래머스 | 21.05.22 | 월간 코드 챌린지 시즌1 | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644?language=swift) | Lv1 | [이동](Swift/Programmers/readme/두개뽑아서더하기.md) | 
 | 프로그래머스 | 21.05.22 | 월간 코드 챌린지 시즌1 | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935?language=swift) | Lv1 | [이동](Swift/Programmers/readme/3진법뒤집기.md) | 
 | 프로그래머스 | 21.05.22 | 월간 코드 챌린지 시즌2 | [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884?language=swift) | Lv1 | [이동](Swift/Programmers/readme/약수의개수와덧셈.md) | 
+| 프로그래머스 | 21.05.25 | 연습문제 | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935?language=swift) | Lv1 | [이동](Swift/Programmers/readme/제일작은수제거하기.md) | 
