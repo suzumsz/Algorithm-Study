@@ -82,4 +82,4 @@
 | 백준 | 21.05.30 | 그리디 | [동전 0](https://www.acmicpc.net/problem/11047) | Lv1 | [이동](Swift/Baekjoon/readme/동전0.md) | 
 | 프로그래머스 | 21.06.06 | 연습문제 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | Lv1 | [이동](Swift/Programmers/readme/서울에서김서방찾기.md) |
 | 프로그래머스 | 21.06.06 | 연습문제 | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | Lv1 | [이동](Swift/Programmers/readme/행렬의덧셈.md) |
-| 프로그래머스 | 21.06.06 | 연습문제 | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | Lv1 | [이동](Swift/Programmers/readme/문자열다루기기본.md) |
+| 프로그래머스 | 21.06.06 | 연습문제 | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | Lv1 | [이동](Swift/Programmers/readme/문자열다루기기본.md) | 
